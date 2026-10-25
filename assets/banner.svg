@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Beyond Hype</title>
+  <desc id="desc">Less hype. Better harnesses. Measurable outcomes.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1221"/><stop offset="1" stop-color="#162b3b"/></linearGradient></defs>
+  <rect width="1280" height="400" rx="20" fill="url(#bg)"/>
+  <path d="M820 0V400M960 0V400M1100 0V400M0 100H1280M0 240H1280" stroke="#ffffff" stroke-opacity=".045"/>
+  <rect x="64" y="58" width="210" height="30" rx="15" fill="#a8f0c6"/>
+  <text x="82" y="79" fill="#10241b" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">A PRACTICAL MANIFESTO</text>
+  <text x="60" y="163" fill="#f4f7fc" font-family="Arial,sans-serif" font-size="64" font-weight="700">Agent Beyond Hype</text>
+  <text x="64" y="212" fill="#a8f0c6" font-family="Arial,sans-serif" font-size="25">Less hype. Better harnesses. Measurable outcomes.</text>
+  <text x="64" y="280" fill="#b4c3d4" font-family="Arial,sans-serif" font-size="19">MODEL + TOOLS + CONTEXT + FEEDBACK</text>
+  <path d="M64 310H1216" stroke="#496274"/>
+  <text x="64" y="350" fill="#b4c3d4" font-family="Arial,sans-serif" font-size="16">QUESTION THE LABELS. TEST THE SYSTEM. SHARE THE FAILURES.</text>
+  <circle cx="1152" cy="153" r="48" fill="none" stroke="#a8f0c6" stroke-width="2"/>
+  <circle cx="1152" cy="153" r="20" fill="#a8f0c6"/>
+  <path d="M1082 153H1103M1201 153H1222M1152 83V104M1152 202V223" stroke="#a8f0c6" stroke-width="2"/>
+</svg>
